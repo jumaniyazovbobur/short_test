@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+salom hello
+=======
 sadaddstatus
+>>>>>>> origin/master
