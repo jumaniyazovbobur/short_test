@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 salom hello
-=======
 sadaddstatus
->>>>>>> origin/master
+dsas
+d
+asd
+asdasdasda
+asdasdasd
